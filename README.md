@@ -1,1 +1,1 @@
-# techlogix_practice
+# Techlogix_practice_repo
